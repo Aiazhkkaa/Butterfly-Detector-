@@ -1,0 +1,6 @@
+image,ground_truth,mean_best_class_iou,all_matched,matched_count,gt_count
+0090132.png,vanessa_atalanta,0.8854711651802063,True,1,1
+0010055.png,danaus_plexippus,0.9849663972854614,True,1,1
+0010006.png,danaus_plexippus,0.9777263402938843,True,1,1
+0090226.png,vanessa_atalanta,0.9669978618621826,True,1,1
+0020119.png,heliconius_charitonius,0.9814497232437134,True,1,1

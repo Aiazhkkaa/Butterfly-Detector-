@@ -1,0 +1,7 @@
+class,train,val,test,total
+danaus_plexippus,58,12,12,82
+heliconius_charitonius,65,14,14,93
+heliconius_erato,43,9,9,61
+vanessa_atalanta,63,14,13,90
+vanessa_cardui,59,13,12,84
+TOTAL,288,62,60,410

@@ -1,0 +1,18 @@
+{
+  "baseline_640": {
+    "image_size": 640,
+    "training_time_sec": 161.86165165901184,
+    "epochs_run": 30,
+    "best_epoch_by_val_mAP50-95": 27,
+    "save_dir": "/content/runs/butterfly/baseline_640",
+    "best_weights": "/content/runs/butterfly/baseline_640/weights/best.pt"
+  },
+  "experiment_416": {
+    "image_size": 416,
+    "training_time_sec": 104.10491156578064,
+    "epochs_run": 30,
+    "best_epoch_by_val_mAP50-95": 30,
+    "save_dir": "/content/runs/butterfly/experiment_416",
+    "best_weights": "/content/runs/butterfly/experiment_416/weights/best.pt"
+  }
+}

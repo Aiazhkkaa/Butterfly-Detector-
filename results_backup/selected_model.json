@@ -1,0 +1,7 @@
+{
+  "selected_run": "baseline_640",
+  "image_size": 640,
+  "selection_metric": "validation mAP50",
+  "selection_note": "tie within 0.005 on val mAP50 -> keep baseline",
+  "tie_tolerance": 0.005
+}
